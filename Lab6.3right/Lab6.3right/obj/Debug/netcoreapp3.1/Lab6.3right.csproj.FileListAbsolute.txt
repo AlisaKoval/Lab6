@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\bin\Debug\netcoreapp3.1\Lab6.3right.exe
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\bin\Debug\netcoreapp3.1\Lab6.3right.deps.json
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\bin\Debug\netcoreapp3.1\Lab6.3right.runtimeconfig.json
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\bin\Debug\netcoreapp3.1\Lab6.3right.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\bin\Debug\netcoreapp3.1\Lab6.3right.dll
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\bin\Debug\netcoreapp3.1\Lab6.3right.pdb
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\obj\Debug\netcoreapp3.1\Lab6.3right.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\obj\Debug\netcoreapp3.1\Lab6.3right.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\obj\Debug\netcoreapp3.1\Lab6.3right.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\obj\Debug\netcoreapp3.1\Lab6.3right.dll
+C:\Users\alisa\source\repos\Lab6.3right\Lab6.3right\obj\Debug\netcoreapp3.1\Lab6.3right.pdb
